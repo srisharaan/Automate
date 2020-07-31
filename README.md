@@ -22,7 +22,6 @@ type the name of the screenshot along with the extension whenever prompted
 **we thank you for adjusting with us as there is no proper documentation**
 
 
-##contact
 **telegram**
 
 t.me/srisharaan
