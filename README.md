@@ -24,9 +24,11 @@ type the name of the screenshot along with the extension whenever prompted
 
 ##contact
 **telegram**
+
 t.me/srisharaan
 
 **instagram**
+
 instagram.com/srisharaan
 
 
