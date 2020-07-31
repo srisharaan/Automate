@@ -33,4 +33,10 @@ instagram.com/srisharaan
 
 ''**download link**
 
+https://github.com/srisharaan/automate/archive/master.zip
 
+
+
+
+
+Thank you.
