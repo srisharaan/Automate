@@ -1,4 +1,4 @@
-## Welcome to Automate
+## Welcome 
 tired of sticking to your schedules
 tired of sitting infront of your computer
 tired of doind all the chores by yourself
