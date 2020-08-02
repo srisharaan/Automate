@@ -14,12 +14,13 @@ what should you do?
 
 
 
-##usage\
+##usage
 
 ``scroll down``
+
 ~~Get a screenshot of your team's icon(idk what do you call that)
 Add that to the mainpy folder
-type the name of the screenshot along with the extension whenever prompted
+type the name of the screenshot along with the extension whenever prompted~~
 
 ~~**we thank you for adjusting with us as there is no proper documentation**~~
 
