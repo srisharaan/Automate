@@ -46,4 +46,4 @@ Thank you...
 
 change your teams menu like the one in the below picture
 
-![mainscreen][https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/mainscreen.PNG]
+![mainscreen](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/mainscreen.PNG)
