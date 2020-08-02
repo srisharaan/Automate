@@ -1,7 +1,7 @@
 ## Welcome 
-tired of sticking to your schedules
-tired of sitting infront of your computer
-tired of doind all the chores by yourself
+Tired of sticking to your schedules
+Tired of sitting infront of your computer
+Tired of doind all the chores by yourself
 
 Here we are to help you
 This script helps you to enter and exit your meetings in microsoft teams
@@ -14,12 +14,14 @@ what should you do?
 
 
 
-##usage
-Get a screenshot of your team's icon(idk what do you call that)
+##usage\
+
+``scroll down``
+~~Get a screenshot of your team's icon(idk what do you call that)
 Add that to the mainpy folder
 type the name of the screenshot along with the extension whenever prompted
 
-**we thank you for adjusting with us as there is no proper documentation**
+~~**we thank you for adjusting with us as there is no proper documentation**~~
 
 
 **telegram**
@@ -85,12 +87,12 @@ Thank you...
 8.you are done...
 
 
-##LIMITATIONS
+##LIMITATIONS\
 
-1.Make sure that no applications hide the teams and/or the other icons
-2.If the script has stopped working,open the script and it will display the cause
-3.The exit command is based on alt+f4 so be sure that teams is the app opened on foreground
-4.You gotta tell me
+1.Make sure that no applications hide the teams and/or the other icons\
+2.If the script has stopped working,open the script and it will display the cause\
+3.The exit command is based on alt+f4 so be sure that teams is the app opened on foreground\
+4.You gotta tell me\
 
 
 
