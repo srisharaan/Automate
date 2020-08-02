@@ -44,6 +44,40 @@ Thank you...
 
 ##INSTRUCTIONS
 
-change your teams menu like the one in the below picture
+1.change your teams menu like the one in the below picture
 
 ![mainscreen](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/mainscreen.PNG)
+
+2.Takes individual screenshots of the teams 
+![cg](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/cg.PNG)
+![dbms](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/dbms.PNG)
+
+3.Copy all the files to the mainpy folder
+![all](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/all.PNG)
+
+4.open the mainpy.exe
+![file](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/Capture.PNG)
+
+5.press 1 to continue
+![first](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/1.PNG)
+
+6.Type the number of meetings you are about to attend today
+![second](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/2.PNG)
+
+7.you will be prompted to enter the start and end time of the first meeting along with the image filename(which you had taken screenshot and pasted in the mainpy folder)
+(DON'T forget to add the extension along)
+![second](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/3.PNG)
+
+
+8.you are done...
+
+
+##LIMITATIONS
+1.Make sure that no applications hide the teams and/or the other icons
+2.If the script has stopped working,open the script and it will display the cause
+3.The exit command is based on alt+f4 so be sure that teams is the app opened on foreground
+4.You gotta tell me
+
+
+
+
