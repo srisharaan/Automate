@@ -14,7 +14,7 @@ what should you do?
 
 
 
-##usage
+**Usage**
 
 ``scroll down``
 
@@ -25,17 +25,17 @@ type the name of the screenshot along with the extension whenever prompted~~
 ~~**we thank you for adjusting with us as there is no proper documentation**~~
 
 
-**telegram**
+**Telegram**
 
 ``t.me/srisharaan``
 
-**instagram**
+**Instagram**
 
 ``instagram.com/srisharaan``
 
 
 
-''**download link**
+**Download link**
 
 https://github.com/srisharaan/automate/archive/master.zip
 
@@ -43,9 +43,7 @@ https://github.com/srisharaan/automate/archive/master.zip
 
 
 
-Thank you...
-
-##INSTRUCTIONS
+***INSTRUCTIONS***
 
 1.change your teams menu like the one in the below picture
 
@@ -88,12 +86,17 @@ Thank you...
 8.you are done...
 
 
-##LIMITATIONS\
+***LIMITATIONS***
 
 1.Make sure that no applications hide the teams and/or the other icons\
 2.If the script has stopped working,open the script and it will display the cause\
 3.The exit command is based on alt+f4 so be sure that teams is the app opened on foreground\
 4.You gotta tell me\
+
+
+
+
+***Thank you...***
 
 
 
