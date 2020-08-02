@@ -27,11 +27,11 @@ type the name of the screenshot along with the extension whenever prompted~~
 
 **telegram**
 
-t.me/srisharaan
+``t.me/srisharaan``
 
 **instagram**
 
-instagram.com/srisharaan
+``instagram.com/srisharaan``
 
 
 
