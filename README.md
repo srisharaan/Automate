@@ -39,6 +39,10 @@ type the name of the screenshot along with the extension whenever prompted~~
 
 https://github.com/srisharaan/automate/archive/master.zip
 
+*If you aren't able to see the images, please do head over here*
+
+https://github.com/srisharaan/Automate
+
 
 
 
