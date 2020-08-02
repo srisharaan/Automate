@@ -91,7 +91,7 @@ https://github.com/srisharaan/automate/archive/master.zip
 1.Make sure that no applications hide the teams and/or the other icons\
 2.If the script has stopped working,open the script and it will display the cause\
 3.The exit command is based on alt+f4 so be sure that teams is the app opened on foreground\
-4.You gotta tell me\
+4.You gotta tell me
 
 
 
