@@ -41,3 +41,9 @@ https://github.com/srisharaan/automate/archive/master.zip
 
 
 Thank you...
+
+##INSTRUCTIONS
+
+change your teams menu like the one in the below picture
+
+![mainscreen][https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/mainscreen.PNG]
