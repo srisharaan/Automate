@@ -49,23 +49,29 @@ Thank you...
 ![mainscreen](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/mainscreen.PNG)
 
 2.Takes individual screenshots of the teams 
+
 ![cg](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/cg.PNG)
 ![dbms](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/dbms.PNG)
 
 3.Copy all the files to the mainpy folder
+
 ![all](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/all.PNG)
 
 4.open the mainpy.exe
+
 ![file](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/Capture.PNG)
 
 5.press 1 to continue
+
 ![first](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/1.PNG)
 
 6.Type the number of meetings you are about to attend today
+
 ![second](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/2.PNG)
 
 7.you will be prompted to enter the start and end time of the first meeting along with the image filename(which you had taken screenshot and pasted in the mainpy folder)
 (DON'T forget to add the extension along)
+
 ![second](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/3.PNG)
 
 
