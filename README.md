@@ -83,11 +83,14 @@ https://github.com/srisharaan/Automate
 7.you will be prompted to enter the start and end time of the first meeting along with the image filename(which you had taken screenshot and pasted in the mainpy folder)
 (DON'T forget to add the extension along)
 
+8.when you are asked to type the timing of the class,do follow the format given in the script.For example, if a meeting is between 11:30 am to 01:30 pm you should type 11301330
+(make sure you use 24H format)
+
 ![second](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/3.PNG)
 
 
 
-8.you are done...
+9.you are done...
 
 
 ***LIMITATIONS***
