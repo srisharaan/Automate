@@ -5,13 +5,14 @@ Tired of sitting infront of your computer
 Tired of doing all the chores by yourself
 
 Take a break,Here we are to help you
-~~This script helps you to enter and exit your meetings in microsoft teams
-what should you do?
+This script which is written on python helps you to automatically enter and exit your meetings in microsoft teams whenever your specify the timings of the meetings.
+~~what should you do?
 1.get the script
 2.type the timings
 3.select the classes for the respective timings
 4.upload the screenshot of the team
 5.sit back and relax~~
+
 
 
 
@@ -26,13 +27,15 @@ type the name of the screenshot along with the extension whenever prompted~~
 ~~**we thank you for adjusting with us as there is no proper documentation**~~
 
 
-**Telegram**
+***CONTACT:***
 
-``t.me/srisharaan``
+  *Telegram*
 
-**Instagram**
+    ``t.me/srisharaan``
 
-``instagram.com/srisharaan``
+   *Instagram*
+
+    ``instagram.com/srisharaan``
 
 
 
