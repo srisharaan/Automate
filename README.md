@@ -49,6 +49,8 @@ https://github.com/srisharaan/Automate
 
 ***INSTRUCTIONS***
 
+*0.make sure the microsoft teams icon is visible and no other application or any other windows display over the teams icon when the script is being executed(I recommend you to set a shortcut icon in the desktop,so that the script can search for the icon)*
+
 1.change your teams menu like the one in the below picture
 
 ![mainscreen](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/mainscreen.PNG)
