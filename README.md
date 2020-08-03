@@ -1,16 +1,17 @@
 ## Welcome 
 Tired of sticking to your schedules
+Tired of following the same routine
 Tired of sitting infront of your computer
-Tired of doind all the chores by yourself
+Tired of doing all the chores by yourself
 
-Here we are to help you
-This script helps you to enter and exit your meetings in microsoft teams
+Take a break,Here we are to help you
+~~This script helps you to enter and exit your meetings in microsoft teams
 what should you do?
 1.get the script
 2.type the timings
 3.select the classes for the respective timings
 4.upload the screenshot of the team
-5.sit back and relax
+5.sit back and relax~~
 
 
 
